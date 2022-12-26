@@ -2,7 +2,7 @@
 
 Shpeshherë hasim në probleme që kërkojnë radhitjen e germave sipas alfabetit të gjuhës sonë. 
 Problemi thellohet edhe më shumë kur gjuha lokale e kompjuterit nuk arrin ta identifikojë alfabetin saktë.
-Rrjedhimisht, ky program shërben për renditjen e shkronjave sipas radhitjes në alfabetin e gjuhës shqipe.
+Rrjedhimisht, ky program shërben për renditjen e shkronjave sipas radhitjes së alfabetit të gjuhës shqipe.
 
 ### Procesi
 Procesi fillon duke i këmbyer germat e përbëra me ato të Alfabetit Fonetik Ndërkombëtar si në vijim:
@@ -71,7 +71,7 @@ Kurse si vijon sipas algoritmit tonë:
 ['Adriatik', 'Agim', 'Bardhyl', 'Besë', 'Çiljetë', 'Dedë', 'Drenë', 'Dhuratë', 'Erjetë', 'Guxim', 'Ilir', 'Jetmirë', 'Symirë', 'Shpend', 'Thëllënëz']. 
 ```
 
-Le ta konsiderojmë edhe listën e mëposhtme. 
+Le ta konsiderojmë edhe listën e mëposhtme:
 
 ```python
 TEST_WORDS_3 = [
@@ -101,7 +101,7 @@ Ndërsa algoritmi i propozuar paraqet zgjidhjen e saktë:
 ```
 
 ### Përmirësimi
-Jam i sigurt se ekziston zgjidhje më efikase sa i përket kodit të pythonit dhe
+Jam i sigurt se ekziston zgjidhje më efikase sa i përket kodit të pythonit andaj
 të gjithë ata që kanë sugjerime mund të më kontaktojnë përmes Githubit.
 
 Detyra për veten (apo edhe dikë që është i interesuar): 
@@ -111,5 +111,3 @@ Detyra për veten (apo edhe dikë që është i interesuar):
     3. Uebfaqe për radhitjen e fjalëve pa programim.
 
 Mirë mbetshi!
-
-Krye Kuzhinieri :) 
