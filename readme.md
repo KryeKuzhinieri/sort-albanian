@@ -61,12 +61,12 @@ TEST_WORDS_1 = [
 ]
 ```
 
-Renditet kështu sipas funksionit standard të pythonit:
+renditet kështu sipas funksionit standard të pythonit:
 ```python
 ['Adriatik', 'Agim', 'Bardhyl', 'Besë', 'Dedë', 'Dhuratë', 'Drenë', 'Erjetë', 'Guxim', 'Ilir', 'Jetmirë', 'Shpend', 'Symirë', 'Thëllënëz', 'Çiljetë'].
 ```
 
-Kurse si vijon sipas algoritmit tonë:
+kurse si vijon sipas algoritmit tonë:
 ```python
 ['Adriatik', 'Agim', 'Bardhyl', 'Besë', 'Çiljetë', 'Dedë', 'Drenë', 'Dhuratë', 'Erjetë', 'Guxim', 'Ilir', 'Jetmirë', 'Symirë', 'Shpend', 'Thëllënëz']. 
 ```
