@@ -60,7 +60,6 @@ def main(words):
     return sort_albanian(words=words)
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print(f"Original words: {TEST_WORDS_1}.")
     sorted_words = main(words=TEST_WORDS_1)
